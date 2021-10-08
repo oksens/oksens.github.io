@@ -1,4 +1,4 @@
 
 
-&mdash;Design by OKSENS.COM [oksens.com](http://www.oksens.com/)&mdash;
+&mdash;Design by [OKSENS.COM](http://www.oksens.com/)&mdash;
 
