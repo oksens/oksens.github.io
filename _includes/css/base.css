@@ -75,7 +75,8 @@
 	p { margin: 0 0 20px 0; }
 	p img { margin: 0; }
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
-
+	p {text-indent:50px;}
+	
 	em { font-style: italic; }
 	strong { font-weight: bold; }
 	small { font-size: 80%; }
