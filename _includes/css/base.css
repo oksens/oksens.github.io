@@ -203,6 +203,9 @@
 	}
 
 /* madx */
+table{
+    margin: 0.8em 0;
+}
 table {
     padding: 0;
     word-break: initial;
