@@ -203,9 +203,9 @@
 	}
 
 /* madx */
-
+/*
 table {
-	/*margin: auto;*/
+	margin: auto;
     padding: 0;
     word-break: initial;
 }
@@ -238,7 +238,7 @@ table th:last-child,
 table td:last-child {
     margin-bottom: 0;
 }
-
+*/
 /* #Forms
 ================================================== */
 
