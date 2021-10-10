@@ -205,7 +205,7 @@
 /* madx */
 
 table {
-	margin: auto;
+	/*margin: auto;*/
     padding: 0;
     word-break: initial;
 }
